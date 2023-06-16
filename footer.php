@@ -19,7 +19,7 @@
 <body>
 <footer>
         <h1>Developed by Rakshit Shrivastava</h1>
-        <h3>Copyright &copy; Rakshit Shrivastava 2021 | All Right Reserved</h3>
+        <h3>Made by Batch 13</h3>
 </footer>
         
 </body>
